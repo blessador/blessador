@@ -159,7 +159,7 @@ Enterprise procurement, inventory and accounting workflow application featuring 
 
 ---
 
-## 📚 Currently Learning
+## 📚 Core Skills
 
 I'm continuously strengthening my infrastructure engineering skills through hands-on projects.
 
