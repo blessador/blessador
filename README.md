@@ -14,13 +14,7 @@
     <img src="https://img.shields.io/badge/Blog-Cloud%20Centric-2962FF?style=for-the-badge&logo=hashnode" alt="Blog"/>
   </a>
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=blessador&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
 </div>
-
 ---
 
 ## 👨‍💻 About Me
