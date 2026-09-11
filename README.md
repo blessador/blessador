@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Valentine Stephen
+<div align="center">
+  <img src="./assets/vstephen-gh-banner.png" alt="Valentine Stephen - Cloud & DevOps Engineer" width="100%">
+</div>
 
 ### ☁️ Cloud & DevOps Engineer | Azure | AWS | Kubernetes | Terraform
 
