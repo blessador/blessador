@@ -3,9 +3,6 @@
 <div align="center">
   <img src="./assets/vstephen-gh-banner.png" alt="Valentine Stephen - Cloud & DevOps Engineer" width="100%">
 </div>
-
-### ☁️ Cloud & DevOps Engineer | Azure | AWS | Kubernetes | Terraform
-
 <p>
   <a href="https://github.com/blessador">
     <img src="https://img.shields.io/badge/GitHub-blessador-181717?style=for-the-badge&logo=github" alt="GitHub"/>
